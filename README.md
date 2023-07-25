@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roysejuti
+- 👋 Hi, I’m Sejuti Roy
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning ASP.NET Core
 - 💞️ I’m looking to work with Microsoft
